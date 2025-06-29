@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "0ylRGDoC#HcERitUaZRhVtnaJGBJ88JKcj58S26CIzxc8zA3QMTk",
       "required": true
     },
  "NEWS_SEND_JID": {
